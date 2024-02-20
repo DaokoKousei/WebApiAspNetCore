@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0uUVwG1GUL9GMMwsrCBcZ7L5bqxUxHQgBZQ6ZD0ikps=",
+  "Source": "WebAPI_Video",
+  "BasePath": "_content/WebAPI_Video",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
